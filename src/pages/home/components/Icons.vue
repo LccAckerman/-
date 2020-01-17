@@ -80,6 +80,7 @@ export default {
 @import '~styles/variables.styl'
 @import '~styles/mixins.styl'
     .icons>>> .swiper-container{
+        margin-top :.2rem
         overflow : hidden
         height : 0
         padding-bottom : 50%  //宽高比是2：1
