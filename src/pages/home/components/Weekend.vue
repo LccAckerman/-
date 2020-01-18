@@ -46,7 +46,6 @@ export default {
         line-height :.8rem
         background :#eee
         text-indent :.2rem
-        margin-top :.2rem
     }
     .item-img{
         width :100%
